@@ -1,0 +1,9 @@
+D:\TestProjects\AutoMapper\AutoMapper.Practice\AutoMapper.Practice.Console\bin\Debug\AutoMapper.Practice.Console.exe.config
+D:\TestProjects\AutoMapper\AutoMapper my practice\AutoMapper.Practice\AutoMapper.Practice.Console\bin\Debug\AutoMapper.Practice.Console.exe.config
+D:\TestProjects\AutoMapper\AutoMapper my practice\AutoMapper.Practice\AutoMapper.Practice.Console\bin\Debug\AutoMapper.Practice.Console.exe
+D:\TestProjects\AutoMapper\AutoMapper my practice\AutoMapper.Practice\AutoMapper.Practice.Console\bin\Debug\AutoMapper.Practice.Console.pdb
+D:\TestProjects\AutoMapper\AutoMapper my practice\AutoMapper.Practice\AutoMapper.Practice.Console\bin\Debug\AutoMapper.dll
+D:\TestProjects\AutoMapper\AutoMapper my practice\AutoMapper.Practice\AutoMapper.Practice.Console\bin\Debug\AutoMapper.xml
+D:\TestProjects\AutoMapper\AutoMapper my practice\AutoMapper.Practice\AutoMapper.Practice.Console\obj\Debug\AutoMapper.Practice.Console.csprojResolveAssemblyReference.cache
+D:\TestProjects\AutoMapper\AutoMapper my practice\AutoMapper.Practice\AutoMapper.Practice.Console\obj\Debug\AutoMapper.Practice.Console.exe
+D:\TestProjects\AutoMapper\AutoMapper my practice\AutoMapper.Practice\AutoMapper.Practice.Console\obj\Debug\AutoMapper.Practice.Console.pdb
