@@ -11,11 +11,13 @@ namespace AutoMapper.Practice.Console
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public int Experience { get; set; }
+        public string Gender { get; set; }
     }
     class Person
     {
         public string FirstName { get; set; }
         public string LastName { get; set; }
+        public string Sex { get; set; }
         public int Age { get; set; }
     }
 }

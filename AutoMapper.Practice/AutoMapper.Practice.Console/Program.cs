@@ -13,7 +13,7 @@ namespace AutoMapper.Practice.Console
         {
             var config = new MapperConfiguration(cnfg =>
             {
-                cnfg.CreateMap<Person, Employee>().BeforeMap((p, e) => p.Age = 25).AfterMap((p, e) => { e.Experience = (p.Age - 24); });
+                cnfg.CreateMap<Person, Employee>().BeforeMap((p, e) => p.Age = 25).AfterMap((p, e) => { e.Experience = (p.Age - 24); }).ForMember(e => e.Gender, cexp => cexp.MapFrom(e => e.Sex));
             });
             var mapper = config.CreateMapper();
 
